@@ -20,7 +20,7 @@ Pixelle-Video extends the original Pixelle architecture to support video inputs,
 
 - Python 3.10+
 - CUDA 11.8+ (for GPU support)
-- 24GB+ VRAM recommended
+- 24GB+ VRAM recommended (I've been running the 7B model on a 3090 with 24GB — works fine)
 
 ### Installation
 
@@ -116,9 +116,5 @@ This project is licensed under the Apache 2.0 License — see the [LICENSE](LICE
 
 ```bibtex
 @misc{pixelle-video,
-  title={Pixelle-Video: Multimodal Large Language Model for Video Understanding},
-  author={Your Team},
-  year={2024},
-  url={https://github.com/your-org/Pixelle-Video}
-}
+  title={Pixelle-Video: Multimodal 
 ```
