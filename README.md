@@ -112,9 +112,9 @@ This project is licensed under the Apache 2.0 License — see the [LICENSE](LICE
 - [AIDC-AI](https://github.com/AIDC-AI) for the original Pixelle codebase
 - The open-source community for invaluable tools and models
 
+## Personal Notes
+
+> This is my personal fork for learning and experimentation. I'm primarily exploring the video captioning pipeline and testing on short clips (~30s) from my own dataset. Not intended for production use.
+
 ## Citation
 
-```bibtex
-@misc{pixelle-video,
-  title={Pixelle-Video: Multimodal 
-```
